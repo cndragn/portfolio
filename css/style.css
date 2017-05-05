@@ -20,7 +20,11 @@ h3 {
   color: #111;
   margin-bottom: 1.5em;
 }
-
+h4 {
+        font-weight: 800;
+    text-transform: uppercase;
+        border-bottom: 1px solid;
+}
 .text {
   color: #777;
   background-color: white;
@@ -133,7 +137,30 @@ h3 {
   width: 250px;
   max-width: 100%;
 }
-
+.skills h4{
+    margin: 35px 0;
+}
+.skills .col-md-6 {
+    max-width: 500px;
+    margin: 0 auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 0 35px;
+}
+.skills li {
+    display: block;
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+.skills i {
+    font-size: 3em;
+}
+.skills img {
+    max-width: 35px;
+}
 
 /* Portfolio */
 
