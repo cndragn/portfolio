@@ -210,22 +210,42 @@ form {
 
 form .btn {
   font-size: .9em;
+  float: left;
+}
+form-control {
+    font-size: 16px;
 }
 
 label {
   font-weight: normal;
 }
 
-.btn-default {
+.btn-cd {
   color: #fff;
   background-color: #8e191b;
+  border-color: #8e191b;
 }
-
-.btn-default:hover {
+.btn-cd:hover, .btn-cd:active, .btn-cd:focus {
   color: #fff;
   background-color: #7d0c0f;
 }
+.alert, .sent {
+    padding: 5px;
+}
+.sent {
+    color: green;
+    
+}
+.alert-success {
+    color: #690900;
+    background-color: #fff;
+    border-color: #fff;
+}
 
+
+#msgSubmit, #feedback {
+    float: left;
+}
 
 /* Social Media */
 
