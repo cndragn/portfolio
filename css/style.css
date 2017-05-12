@@ -94,18 +94,18 @@ h4 {
 }
 
 .bgimg-1 {
-  background-image: url("http://res.cloudinary.com/cndragn/image/upload/v1492717753/FreeCodeCamp/miami.jpg");
+  background-image: url("../images/miami.jpg");
   min-height: 400px;
   border-top: .3em solid #8e191b;
 }
 
 .bgimg-2 {
-  background-image: url("http://res.cloudinary.com/cndragn/image/upload/v1493911424/red_fltuuc.png");
+  background-image: url("../images/red_fltuuc.png");
   min-height: 300px;
 }
 
 .bgimg-3 {
-  background-image: url("http://rabotnikitv.com/wp-content/uploads/2016/10/business_insurance_12.11.jpg");
+  background-image: url("../images/laptop-coffee.jpg");
   min-height: 300px;
 }
 
@@ -304,7 +304,7 @@ label {
 /* Footer */
 
 footer {
-  background: url("http://res.cloudinary.com/cndragn/image/upload/v1492748741/bg_h4lzdy.gif");
+  background: url("../images/bg_h4lzdy.gif");
   height: 75px;
 }
 

@@ -1,4 +1,5 @@
 $('body').scrollspy({target: ".navbar", offset: 80});
+
 $("#navbar a").on('click', function(event) {
   if (this.hash !== "") {
     event.preventDefault();
@@ -17,6 +18,7 @@ $("#navbar a").on('click', function(event) {
 
  $( "#submitBtn" ).click(function( event ) {
         //values
+        
         var name=document.getElementById('name').value;
         var email=document.getElementById('email').value;
         var message=document.getElementById('message').value;
