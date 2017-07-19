@@ -165,9 +165,11 @@ ul {
 /* Portfolio */
 
 .portfolio a{
-    color: #8e191b;
-    font-weight: 800;
+    color: #8e191b; 
     text-decoration: none;
+}
+a.portfolio_title{
+    font-weight: 800;
 }
 
 .gallery,
