@@ -13,6 +13,8 @@
 
 **View My Project:** http://candicedavidson.com
 
+![Web Developer Portfolio](http://candicedavidson.com/images/portfolio.png)
+
 ## Technologies Used
 
 * HTML / CSS
