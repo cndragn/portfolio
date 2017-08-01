@@ -1,6 +1,4 @@
 # Professional Portfolio
-  
-## Project Details
 
 **View My Portfolio:** http://candicedavidson.com
 
